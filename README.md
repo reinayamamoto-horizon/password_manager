@@ -28,8 +28,8 @@ shellでパスワードマネージャーを作成した。
 今回の対象外の作業を記載
 
 ## 動作検証・キャプチャ
-パスワード追加画面
+### パスワード追加画面
 <img width="566" height="134" alt="スクリーンショット 2025-12-09 17 22 03" src="https://github.com/user-attachments/assets/569b0a30-2584-43a7-9cd2-686dcacb0046" />
-パスワード取得画面
+### パスワード取得画面
 <img width="588" height="166" alt="スクリーンショット 2025-12-09 17 22 41" src="https://github.com/user-attachments/assets/f19c2122-6aeb-4fbb-9d21-d4e3f54f8550" />
 
